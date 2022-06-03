@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/primary"
+    android:orientation="vertical"><![CDATA[
+    tools:context=".aboutusActivity">
+
+    ]]>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="@drawable/boarder"
+        android:src="@drawable/satya" />
+
+    <TextView
+        android:id="@+id/txtv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="-25dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginRight="8dp"
+        android:fallbackLineSpacing="false"
+        android:filterTouchesWhenObscured="false"
+        android:freezesText="false"
+        android:gravity="left"
+        android:linksClickable="true"
+        android:padding="20dp"
+        android:text="@string/aboutus"
+        android:textColor="#90000000"
+        android:textColorHighlight="#221E1E"
+        android:textColorHint="#FFFFFF"
+        android:textColorLink="#90000000"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/fb"
+        android:layout_width="45dp"
+        android:layout_height="47dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="8dp"
+        app:srcCompat="@drawable/fb" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="-60dp"
+        android:padding="20dp"
+        android:text="For more information and help\n Visit our Facebook Page:"
+        android:textSize="18sp" />
+
+
+</LinearLayout>

@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Plasma Bank</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="achiev">Achievements</string>
+
+    <!-- Strings related to login -->
+    <string name="signup">Register</string>
+    <string name="prompt_email">Enter your Email Address</string>
+    <string name="register">Create an account</string>
+    <string name="forgotpass">Forgot password?</string>
+    <string name="prompt_password">Password (length more than 5)</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="reset">Reset</string>
+    <string name="displayName">Full Name</string>
+    <string name="mobile">Enter your 10 digit Mobile No:</string>
+    <string name="userAddress">Enter your Address with pin code</string>
+    <string name="nearH">Find nearest Hospitals</string>
+    <string name="fndBlood">Find Plasma Donor</string>
+    <string name="lgout">Log out</string>
+    <string name="devinfo">About us</string>
+    <string name="bloodinfo">Plasma Info</string>
+
+
+    <string-array name="State">
+        <item>--Select--</item>
+        <item>Andhra Pradesh</item>
+        <item>Assam</item>
+        <item>Arunachal Pradesh</item>
+        <item>Bihar</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>West Bengal</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttarakhand</item>
+        <item> Uttar Pradesh</item>
+        <item> West Bangal</item>
+
+
+    </string-array>
+    <string-array name="yesno">
+        <item>--Select--</item>
+        <item>Yes</item>
+        <item>No</item>
+        </string-array>
+
+    <array name="gender">
+        <item>--Select--</item>
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+    <array name="Blood_Group">
+        <item>--Select--</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+
+    <string name="eligibility_">Eligibility Requirements</string>
+    <string name="female_">A patient who has recovered from COVID-19 can donate plasma after 28-30 days of recovery. 28-30 days of recovery</string>
+    <string name="male_">They must be between the ages of 18 and 60. Be healthy and feeling well</string>
+    <string name="info_">Giving Plasma saves lives. The Plasma you give is a lifeline in an emergency and for people who need long-term treatments.Your antibodies can help someone fight the infection.</string>
+    <string name="aboutus">Developer: Satyaprakash Prajapati\nEmail Id: satyaprakas5555@gmail.com\n(B.Tech in computer Science and engineering)\n\n
+  ----------Who we are?----------\n We are team DocPat.\n We are here to help the community in\n this pandemic crisis.we are network\n of volunteers who are giving all of their\n effort,day and night,to provide the bridge\n between the needs and resources.
+    </string>
+
+
+</resources>

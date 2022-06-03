@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorAccent"
+            android:backgroundTint="@color/primary_dark"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:text="Why Should You Donate Plasma?"
+            android:textColor="#B5221E1E"
+            android:textColorHighlight="#F44336"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/boarder"
+            android:gravity="start"
+            android:padding="10dp"
+            android:text="@string/info_"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/colorAccent"
+            android:backgroundTint="@color/primary_dark"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:text="@string/eligibility_"
+            android:textColor="#B5221E1E"
+            android:textColorHighlight="#000000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/boarder"
+            android:gravity="start"
+            android:padding="10dp"
+            android:text="@string/male_"
+            android:textColor="#B4302B2B"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/boarder"
+            android:gravity="start"
+            android:padding="10dp"
+            android:text="@string/female_"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</ScrollView>

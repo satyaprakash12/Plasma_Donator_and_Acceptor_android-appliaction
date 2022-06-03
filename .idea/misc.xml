@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/aboutus.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/activity_dashboard.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/activity_post.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/activity_profile.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/activity_restore_password.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/app_bar_dashboard.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/home_view_fragment.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/nav_header_dashboard.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/request_list_item.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/search_donor_fragment.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/search_donor_item.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PlasmaBank4/app/src/main/res/layout/user_achievment_fragment.xml" value="0.10190217391304347" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
